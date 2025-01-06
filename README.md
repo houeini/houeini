@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# I'm a student at TMU studying Comp sci. Thanks!!!!!
+
 <!--
 **houeini/houeini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
